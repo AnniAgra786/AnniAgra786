@@ -4,7 +4,7 @@
   <img src="https://github.com/AnniAgra786/AnniAgra786/assets/109506450/06e82d18-4bb4-492c-b0b8-350b38158d85.gif" alt="Your Image" width="500" height="300" />
 </div>
  
-- 💬 Ask me about **SQL**
+- 💬 Ask me about **SQL,Python,Tableau,Power Bi and Excel**
 
 - 📫 How to reach me **rakeshananya@943@gmail**
 
