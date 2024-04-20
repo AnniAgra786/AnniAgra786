@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananya Rakesh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <div style="text-align:center;">
-    <img src="https://github.com/AnniAgra786/AnniAgra786/assets/109506450/06e82d18-4bb4-492c-b0b8-350b38158d85.gif" alt="Animated GIF" height="200" width="200" />
+    <img src="https://github.com/AnniAgra786/AnniAgra786/assets/109506450/06e82d18-4bb4-492c-b0b8-350b38158d85.gif" alt="Animated GIF" height="200" width="300" />
 </div>
  
 - 🌱 I’m currently learning **Docker**
