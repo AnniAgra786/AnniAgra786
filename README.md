@@ -4,8 +4,6 @@
     <img src="https://github.com/AnniAgra786/AnniAgra786/assets/109506450/06e82d18-4bb4-492c-b0b8-350b38158d85.gif" alt="Animated GIF" height="200" width="300" />
 </div>
  
-- 🌱 I’m currently learning **Docker**
-
 - 💬 Ask me about **SQL**
 
 - 📫 How to reach me **rakeshananya@943@gmail**
